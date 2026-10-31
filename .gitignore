@@ -1,0 +1,27 @@
+
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Compiled C++ executables
+market_engine
+tests/test_orderbook
+
+# macOS files
+.DS_Store
+
+# Temporary test output
+test_trades.csv
+tests/test_trades.csv
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+market_engine
+tests/test_orderbook
+
+.vscode/
