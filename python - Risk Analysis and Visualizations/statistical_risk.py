@@ -93,7 +93,7 @@ ax.grid(alpha=0.3)
 plt.tight_layout()
 plt.savefig(DATA / "statistical_risk.png", dpi=200)
 plt.show()
-ss
+
 print("\nRisk analysis completed successfully!")
 
 
